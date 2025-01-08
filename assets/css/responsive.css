@@ -1,15 +1,15 @@
 /* PC */
-@media (min-width: 1024px) {
+@media (min-width: 64em) {
     
 }
 
 /* Tablet */
-@media (min-width: 740px) and (max-width: 1023px) {
+@media (min-width: 46.25em) and (max-width: 63.9375em) {
     
 }
 
 /* Tablet & Mobile */
-@media (max-width: 1023px) {
+@media (max-width: 63.9375em) {
     #nav .subnav a {
         padding: 5px 12px;
     }
@@ -20,18 +20,19 @@
     
     .contact-form .form-control {
         padding: 15px;
+        font-size: 16px;
     }
     
     #footer .socials-list {
-        font-size: 42px;
+        font-size: 32px;
     }
     
     .contact-info {
         line-height: 2;
     }
-    
+
     #footer .socials-list a {
-        margin: 0 4px;
+        margin: 0 2px;
     }
     
     #footer .socials-list a {
@@ -40,7 +41,7 @@
 }
 
 /* Mobile */
-@media (max-width: 739px) {
+@media (max-width: 46.1875em) {
     /* Class chung */
     .s-full-width,
     .s-col-full {
