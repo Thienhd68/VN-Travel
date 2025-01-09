@@ -390,6 +390,7 @@ html {
 .contact-info a {
     color: #0000ee;
     opacity: 0.8;
+    text-decoration: none;
 }
 
 .contact-info a:hover {
