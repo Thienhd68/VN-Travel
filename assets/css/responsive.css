@@ -51,6 +51,10 @@
     .s-mt-8 {
         margin-top: 8px !important;
     }
+    /* End */
+    #slider .text-content {
+        bottom: 22px;
+    }
 
     #header {
         overflow: hidden;
