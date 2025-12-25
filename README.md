@@ -16,7 +16,7 @@
 
 **Dự án học tập đầu tiên | Sinh viên năm 2 - CNTT**
 
-[Demo](#-demo) • [Tính năng](#-tính-năng) • [Cài đặt](#-cài-đặt) • [Tác giả](#-tác-giả)
+[Demo](#-demo) • [Tính năng](#-tính-năng) • [Cài đặt](#-cài-đặt) • [Tác giả](#%E2%80%8D-tác-giả)
 
 ---
 
